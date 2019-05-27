@@ -1,0 +1,870 @@
+{
+  "settings": {
+    "name": "agenciainspirepublicidade",
+    "currentPage": "agenciainspirepublicidade.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#262421",
+        "secondaryColor": "#efefef",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#b8312f",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#262421"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "uniqCompNum": 20,
+    "versionPublish": "4.9.7",
+    "favicon": "",
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "agenciainspirepublicidade.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#262421",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"agenciainspirepublicidade.html\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#262421"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#262421"
+            },
+            ".link, .dropdown-item": {
+              "color": "#262421"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#262421",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#262421!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INSPIRE&nbsp;</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "10",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/man-back.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "INSPIRE PUBLICIDADE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Somos uma agência de live marketing que temos como foco o desenvolvimento e criação de marcas para o mercado. Além da recolocação de uma marca dentro do segmento.\n<br>\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=I3ysdIjwq5I&list=PL5cDPy2XJ-eHJQvQvkE44oGuIXcARTuMa&index=39",
+                "title": "Vídeos&nbsp;",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Criação de videos promocionais.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/maio-amarelo-800x800.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Concientização",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Campanhas de concientização.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-0"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "title1": "QUEM SOMOS",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "A inspire publicidade foi criada com intuito de identificar, entender e compreender as necessidades do mercado e com isso desenvolver soluções criativas, eficazes capaz de materializar  projetos de comunicação visual, sinalização e mídia exterior para nossos clientes. ",
+          "title2": "RESPONSABILIDADE",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Nosso objetivo como agência publicitária é criar sempre um conteúdo de branding de qualidade e apresentando diversas opções diferenciadas dos concorrentes para nossos clientes dentro do segmento que ele está voltado.\n<br>\n<br>",
+          "title3": "CRIAÇÃO",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Trabalhamos desde a remodelagem e criação de logos, o desenvolvimento de landing pages, criação de artes e alimentação de redes sociais.\n<br>Oferecemos um serviço completo de desenvolvimento de marca e conteúdo tanto online, quanto físico.&nbsp;<br>",
+          "title4": "COMPROMISSO",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Nosso compromisso é proporcionar experiência e a fidelização de seus consumidores quanto ao seu trabalho, prospectando consumidores para sua marca.<br><br>\n<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-2",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "JOBS",
+          "meta": "ONG FALA MULHER 2018",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/home-page-a-1005x643.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/home-page-a-1005x643-800x512.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/quem-somos-1009x637.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/quem-somos-1009x637-800x505.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/home-page-mensagem-1003x643.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/home-page-mensagem-1003x643-800x513.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fale-conosco-1001x639.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fale-conosco-1001x639-800x511.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/denuncie-1113x791.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/denuncie-1113x791-800x569.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mulher-com-medo-ong-1920x1565.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mulher-com-medo-ong-1920x1565-800x652.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/desintegrao-2-1920x1282.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desintegrao-2-1920x1282-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ong-fala-mulher-atualizado-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ong-fala-mulher-atualizado-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": ".",
+          "meta": "TRANSIT TRANSPORTES 2019",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/foto-trabalho-guilherme-495x264.png",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-trabalho-guilherme-495x264-495x264.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/trabalho-guilherme-2-983x555.png",
+                "thumb": "@PROJECT_PATH@/assets/images/trabalho-guilherme-2-983x555-800x452.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/loading-ramp-1480493-1920-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/loading-ramp-1480493-1920-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagem-revista-com-texto-jpg-2000x1429.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imagem-revista-com-texto-jpg-2000x1429-800x572.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/galpao-transit-700x467.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/galpao-transit-700x467-700x467.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/maio-amarelo-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maio-amarelo-800x800-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/transit-insta-794x1123.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/transit-insta-794x1123-794x1123.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/logo-2-143x83.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2-143x83-143x83.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "NOSSO TIME",
+          "subtitle": "Para que cada projeto alcance uma boa experiência aos nossos clientes contamos com peças fundamentais em cada processo,  um time de colaboradores capaz de desenvolver e criar valores.",
+          "testimonial": [
+            {
+              "authorName": "\r<div><span style=\"font-size: 1rem; background-color: initial;\">Larissa Bezerra&nbsp;</span><br></div><div><br></div>",
+              "authorBio": "Site e Criação",
+              "text": "<p>&nbsp;Responsável no desenvolvimento dos sites e arts graficas.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/larissa-loira-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Larissa Medeiros",
+              "authorBio": "Arte gráfica",
+              "text": "<p>Responsável no controle das execussões graficas.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/larissa-morena-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Karoline de Carvalho\n",
+              "authorBio": "Criação e planejamento",
+              "text": "Roteirista responsável pelo planejamento e criação de campanhas.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/karol-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Lucas Neves",
+              "authorBio": "Criação de conteúdos e de peças publicitárias.",
+              "text": "<p>Roteirista e criador de conteúdos de peças publicitarias.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/lucas-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "\n<div><br></div><div>Maria Eduarda\n</div><div><br></div>",
+              "authorBio": "Facebook e Planejamento",
+              "text": "Responsável na gestão das mídias sociais.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/madu-129x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Marcio Fernandes",
+              "authorBio": "Arte gráfica: ilustrações,mídia digital ou analógica.",
+              "text": "Criador e desenvolvedor de arts gráficas para mídias digitais e analogicas",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/marcio-132x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x265.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "title1": "Categories",
+          "text1": "Contate-nos",
+          "text2": "(11) 94025-4872",
+          "text3": "av. Vital &nbsp;Brasil,1100<br>",
+          "text4": "Contato@inspirepublicidade.com",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li>Planejamento</li><li><a class=\"text-white\" href=\"#\">S</a>ac</li>",
+          "text6": "<br><br><br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "marciocauanga@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-e",
+          "_styles": {
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/transittransportes/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-g"
+        }
+      ]
+    }
+  }
+}
